@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.25.2](https://github.com/XAMPPRocky/octocrab/compare/v0.25.1...v0.25.2) - 2023-07-08
+
+### Other
+- Add repository secrets api ([#399](https://github.com/XAMPPRocky/octocrab/pull/399))
+
 ## [0.25.1](https://github.com/XAMPPRocky/octocrab/compare/v0.25.0...v0.25.1) - 2023-06-06
 
 ### Other
